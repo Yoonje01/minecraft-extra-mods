@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "mods": [
     {
-      "url": "https://github.com/Yoonje01/minecraft-extra-mods/releases/download/atelier-2.3.4/AtelierWardrobeClient-2.3.4.jar",
-      "sha256": "c03b9785e5ce44117eaef94e17fc4c6213dd445e88c5c82d502329d2966f1c73",
       "file": "AtelierWardrobeClient-2.3.4.jar",
-      "size": 100043
+      "sha256": "86e53911b3335e1a7029d7090c6e9eaac94d21fb06459f4be520b1b5c317a100",
+      "size": 100066,
+      "url": "https://github.com/Yoonje01/minecraft-extra-mods/releases/download/atelier-2.3.5/AtelierWardrobeClient-2.3.5.jar"
     }
   ]
 }
